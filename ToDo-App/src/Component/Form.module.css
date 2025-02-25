@@ -1,0 +1,37 @@
+.todoform{
+    background-color: ;
+    border-radius: 8px;
+    padding: 30px;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3)
+}
+
+.mordern{
+    display: block;
+    width: 100%;
+    border: none;
+    color: black;
+    font-size: 20px;
+}
+
+.mordern:focus{
+    outline: none;
+}
+
+.mybutton{
+    display: inline-block;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(148, 9, 113);
+    color: azure;
+    padding: 10px 12px;
+    cursor: pointer;
+    font-weight: ;
+    font-size: 20px;
+}
+
+.container{
+    display: flex;
+}

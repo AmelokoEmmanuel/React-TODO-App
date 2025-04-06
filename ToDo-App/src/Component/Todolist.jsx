@@ -1,4 +1,4 @@
-import styles from "./todolist.module.css"
+import styles from "./Todolist.module.css"
 import TodoItem from "./TodoItem"
 
 export default function Todolist({todos, setTodos}){
